@@ -2,18 +2,18 @@
 # Demo
 
 this project was created to understand how to work with :
-template-driven forms
-reactive-forms
-learn to use formGroup
-setValue and patchValue
-simplify with FormBuilder
-set validation rules
-create custom validators
-create custom validators with parameters
-validate several fiels with the same validator (email, confirm email)
-add or remove validator dynamically
-watch for changes in a control
-how to duplicate formgroups and addit to the formbuilder
+-template-driven forms,
+-reactive-forms,
+-learn to use formGroup,
+-setValue and patchValue,
+-simplify with FormBuilder,
+-set validation rules,
+-create custom validators,
+-create custom validators with parameters,
+-validate several fiels with the same validator (email, confirm email),
+-add or remove validator dynamically,
+-watch for changes in a control,
+-how to duplicate formgroups and addit to the formbuilder,
 
 
 
